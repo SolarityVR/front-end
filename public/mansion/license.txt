@@ -1,0 +1,11 @@
+Model Information:
+* title:	Multi-purpose Meta-structure A
+* source:	https://sketchfab.com/3d-models/multi-purpose-meta-structure-a-2c838a6f3ba3400fa5337266f2d57dd8
+* author:	roythe3dguy (https://sketchfab.com/roythe3dguy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Multi-purpose Meta-structure A" (https://sketchfab.com/3d-models/multi-purpose-meta-structure-a-2c838a6f3ba3400fa5337266f2d57dd8) by roythe3dguy (https://sketchfab.com/roythe3dguy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

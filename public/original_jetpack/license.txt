@@ -1,0 +1,11 @@
+Model Information:
+* title:	Original Jetpack
+* source:	https://sketchfab.com/3d-models/original-jetpack-7d19dd3b0ddb474a907efcba3b3af64f
+* author:	jamie_catharsis (https://sketchfab.com/jamie_catharsis)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Original Jetpack" (https://sketchfab.com/3d-models/original-jetpack-7d19dd3b0ddb474a907efcba3b3af64f) by jamie_catharsis (https://sketchfab.com/jamie_catharsis) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

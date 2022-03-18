@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoon Land (on World Machine) VR READY!
+* source:	https://sketchfab.com/3d-models/cartoon-land-on-world-machine-vr-ready-987df273554441508fed8888e09d8423
+* author:	photogrammetryblender3D (https://sketchfab.com/photogrammetryblender3D)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoon Land (on World Machine) VR READY!" (https://sketchfab.com/3d-models/cartoon-land-on-world-machine-vr-ready-987df273554441508fed8888e09d8423) by photogrammetryblender3D (https://sketchfab.com/photogrammetryblender3D) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

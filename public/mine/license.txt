@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft Sphere World 2
+* source:	https://sketchfab.com/3d-models/minecraft-sphere-world-2-7ec64bfd6b874374a4f95e18d77b2b93
+* author:	linkitch (https://sketchfab.com/linkitch)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft Sphere World 2" (https://sketchfab.com/3d-models/minecraft-sphere-world-2-7ec64bfd6b874374a4f95e18d77b2b93) by linkitch (https://sketchfab.com/linkitch) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

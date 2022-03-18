@@ -1,0 +1,11 @@
+Model Information:
+* title:	NTGL Pinball POD (Chugs a little)
+* source:	https://sketchfab.com/3d-models/ntgl-pinball-pod-chugs-a-little-616cb3bc919a439ea7c346fc4e7612b3
+* author:	Neberkenezer (https://sketchfab.com/neberkenezer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NTGL Pinball POD (Chugs a little)" (https://sketchfab.com/3d-models/ntgl-pinball-pod-chugs-a-little-616cb3bc919a439ea7c346fc4e7612b3) by Neberkenezer (https://sketchfab.com/neberkenezer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
