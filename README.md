@@ -1,5 +1,7 @@
 # Solarity Web
 
+Try it here: https://priceless-joliot-45c5d7.netlify.app/
+
 This project includes:
 
 - Next.JS
