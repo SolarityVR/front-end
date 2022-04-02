@@ -1,6 +1,6 @@
 # Solarity Web
 
-Try it here: https://priceless-joliot-45c5d7.netlify.app/
+Try it here: https://solarity-web-git-master-hassan-sk.vercel.app/
 
 This project includes:
 
